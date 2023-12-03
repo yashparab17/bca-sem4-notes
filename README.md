@@ -1,2 +1,2 @@
-# bca-semiv-notes
-BCA Semester IV Notes - updated once in a while by me.
+# bca-sem4-notes
+BCA Semester 4 Notes - updated once in a while by me.
